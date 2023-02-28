@@ -12,8 +12,8 @@
 #### ![Header](/img/1.png)
 
 ### form.form>(label.form__label>input.form__input)*4+textarea.form__textarea+button.form__button
-#### ![Header](/img/2.png)
+#### ![Form](/img/3.png)
 ### li.li>.li__card>a.card__link>img.card__img+h3.card__caption+p.card__inscription
-#### ![Header](/img/3.png)
+#### ![Card](/img/2.png)
 ### li.specificity>(.specificity__description>h3.description__caption+(p.description__text)*3)+img.specificity__img
-#### ![Header](/img/4.png)
+#### ![Text](/img/4.png)
