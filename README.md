@@ -8,12 +8,12 @@
 
 ## BEM
 
-### header.header>.wrapper>(a.header__logo-link>img.header__logo-img)+(nav.header__navigation>ul.header__ul>(li.header__li>a.header__li-link)*4+a.header__basket-link>img.basket-img)
-#### ![Header](/img/1.png)
+### ```header.header>.wrapper>(a.header__logo-link>img.header__logo-img)+(nav.header__navigation>ul.header__ul>(li.header__li>a.header__li-link)*4+a.header__basket-link>img.basket-img)```
+#### ![Header](/img/1.png)`
 
-### form.form>(label.form__label>input.form__input)*4+textarea.form__textarea+button.form__button
+### ```form.form>(label.form__label>input.form__input)*4+textarea.form__textarea+button.form__button```
 #### ![Form](/img/3.png)
-### li.li>.li__card>a.card__link>img.card__img+h3.card__caption+p.card__inscription
+### ```li.li>.li__card>a.card__link>img.card__img+h3.card__caption+p.card__inscription```
 #### ![Card](/img/2.png)
-### li.specificity>(.specificity__description>h3.description__caption+(p.description__text)*3)+img.specificity__img
+### ```li.specificity>(.specificity__description>h3.description__caption+(p.description__text)*3)+img.specificity__img```
 #### ![Text](/img/4.png)
