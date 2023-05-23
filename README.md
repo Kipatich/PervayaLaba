@@ -8,7 +8,7 @@
 
 ## BEM
 
-### ```header.header>.wrapper>(a.header__logo-link>img.header__logo-img)+(nav.header__navigation>ul.header__ul>(li.header__li>a.header__li-link)*4+a.header__basket-link>img.basket-img)```
+### ```header.header>.wrapper>(a.header__logo-link>img.header__logo-img)+(nav.header__navigation>ul.header__navigation-links>(li.navigation__link-container>a.navigation__link)*4+a.header__basket-link>img.header__basket-img)```
 #### ![Header](/img/1.png)`
 
 ### ```form.form>(label.form__label>input.form__input)*4+textarea.form__textarea+button.form__button```
